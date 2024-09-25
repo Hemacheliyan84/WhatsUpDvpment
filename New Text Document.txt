@@ -9,3 +9,7 @@ WhatsUP Dvp
 4.attachments images..
 
 5.Hiding the lasst seen
+
+Adding the vido call feature
+addding the audio call feature
+
