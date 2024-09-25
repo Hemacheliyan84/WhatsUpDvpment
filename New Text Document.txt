@@ -1,5 +1,11 @@
-WhatsUP Doc
+WhatsUP Dvp
 
-1.Create a 
+1.profile page code
 
-2.add a new feature
+2.chat screen code
+
+3.last seen code
+
+4.attachments images..
+
+5.Hiding the lasst seen
